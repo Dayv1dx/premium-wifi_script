@@ -1,0 +1,4 @@
+<InternetGatewayDevice>
+<X_HW_AppRemoteManage CurrentMgtURL="br-cloud.openlife.huawei.com" CurrentPort="9002" PhoneAppURL="br-cloud.openlife.huawei.com" MgtURL="" Port="" Heartbeat="60" Ability="0" LocatePort="17998" Version="1.0">
+</X_HW_AppRemoteManage>
+</InternetGatewayDevice>
